@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am currently a Scientific Engineering Associate with the Applied Nuclear Physics Program at Lawrence Berkeley National Laboratory. My work focuses primarily on the design and implementation of interpretable algorithms for the purposes of modeling gamma-ray radiation background signatures, detecting potential external sources of radiation, and identifying the radionuclides present in the environment. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am seeking PhD positions in Computer Science. My research interests include
+- Explainable artificial intelligence/machine learning (XAI)
+- The mathematical foundations of machine learning
+- Machine learning for science (e.g. applications in physics, biology, climate science)
 
 
-[jekyll-organization]: https://github.com/jekyll
