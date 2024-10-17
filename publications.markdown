@@ -17,17 +17,20 @@ D.Y. Parkinson, J.I. Pacold, M. Gross; T.D. McDougall, **A.C. Jones**, J. Bows, 
 # Conference Papers
 - _An Adaptive Approach to Spectroscopic Anomaly Detection and Isotope Identification_\
 **A.C. Jones**, M.S. Bandstra, S. Faaland, Y. Lai, R.J. Cooper\
-9 November 2023, IEEE Nuclear Science Symposium and Medical Imaging Conference, doi: 10.1109/NSSMICRTSD49126.2023.10338201
+9 November 2023, IEEE Nuclear Science Symposium and Medical Imaging Conference\
+doi: 10.1109/NSSMICRTSD49126.2023.10338201
 
 
 - _Characterizing the Performance of Spectroscopic Anomaly Detection and Identification Algorithms with a Synthetic Urban Search Dataset_\
 **A.C. Jones**, M.S. Bandstra, J.M. Ghawaly, Jr., Y.S. Lai, T.H.Y. Joshi, B.J. Quiter\
-6 November 2023, IEEE Nuclear Science Symposium and Medical Imaging Conference, doi: 10.1109/NSSMICRTSD49126.2023.10337925
+6 November 2023, IEEE Nuclear Science Symposium and Medical Imaging Conference\
+doi: 10.1109/NSSMICRTSD49126.2023.10337925
 
 
 - _Modeling the Performance of Gamma-ray Source Detection and Identification Algorithms using Spectral Distinctiveness and Similarity Metrics_\
 M. S. Bandstra, D. E. Archer, J. D. Daughhetee, J. M. Ghawaly, Jr., **A.C. Jones**, T. H. Y. Joshi, A. Nachtsheim, A. D. Nicholson, D. E. Peplow, N. Prins, B. J. Quiter\
-6 November 2023, IEEE Nuclear Science Symposium and Medical Imaging Conference, doi: 10.1109/NSSMICRTSD49126.2023.10338489
+6 November 2023, IEEE Nuclear Science Symposium and Medical Imaging Conference\
+doi: 10.1109/NSSMICRTSD49126.2023.10338489
 
 
 
