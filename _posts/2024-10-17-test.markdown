@@ -2,5 +2,5 @@
 layout: post
 title:  "Test post"
 date:   2024-10-17 15:49:49 -0700
-categories: jekyll update
+categories: papers announcement
 ---
