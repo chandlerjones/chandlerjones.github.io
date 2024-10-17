@@ -11,4 +11,8 @@ I am seeking PhD positions in Computer Science. My research interests include
 - The mathematical foundations of machine learning
 - Machine learning for science (e.g. applications in physics, biology, climate science)
 
+I attended UC Berkeley from 2016 to 2020 where I majored in Applied Mathematics with a concentration in computer science. As an undergraduate I was fortunate to have an internship at the Advanced Light Source at Berkeley Lab in the summer of 2017. I also tutored linear algebra, calculus, and real analysis at the UC Berkeley Student Learning Center for 2 years.
+
+In my spare time I enjoy making music, hiking, and watching college football (Go Bears!).
+
 
