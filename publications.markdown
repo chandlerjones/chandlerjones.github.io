@@ -5,13 +5,13 @@ permalink: /publications/
 ---
 
 # Peer-Reviewed Publications
+- _Design and Generation of a Dataset for Radiation Detection Algorithm Development_\
+J.M. Ghawaly Jr., D.E. Archer, A.D. Nicholson, D.E. Peplow, N.J. Prins, T.H.Y. Joshi, M.S. Bandstra, **A.C. Jones**, B.J. Quiter, A.C. Nachtsheim\
+In preparation
+
 - _Explaining machine-learning models for gamma-ray detection and identification_\
 M.S. Bandstra, J.C. Curtis, J.M. Ghawaly Jr, **A.C. Jones**, T.H.Y. Joshi\
 20 June 2023, PLOS ONE 18(6): e0286829. doi.org/10.1371/journal.pone.0286829
-
-- _Achieving fast high-resolution 3D imaging by combining synchrotron x-ray microCT, advanced algorithms, and high performance data management_\
-D.Y. Parkinson, J.I. Pacold, M. Gross; T.D. McDougall, **A.C. Jones**, J. Bows, I. Hamilton; D.E. Smiles, S. De Santis, A. Ratti, D.E. Pelt, J. Sethian, H. Barnard, J. Peterson, A. Ramirez-Hong, A. MacDowell, D. K. Shuh\
-8 June 2018, SPIE, doi: 10.1117/12.2307272
 
 
 # Conference Papers
@@ -32,5 +32,7 @@ M. S. Bandstra, D. E. Archer, J. D. Daughhetee, J. M. Ghawaly, Jr., **A.C. Jones
 6 November 2023, IEEE Nuclear Science Symposium and Medical Imaging Conference\
 doi: 10.1109/NSSMICRTSD49126.2023.10338489
 
-
+- _Achieving fast high-resolution 3D imaging by combining synchrotron x-ray microCT, advanced algorithms, and high performance data management_\
+D.Y. Parkinson, J.I. Pacold, M. Gross; T.D. McDougall, **A.C. Jones**, J. Bows, I. Hamilton; D.E. Smiles, S. De Santis, A. Ratti, D.E. Pelt, J. Sethian, H. Barnard, J. Peterson, A. Ramirez-Hong, A. MacDowell, D. K. Shuh\
+8 June 2018, SPIE, doi: 10.1117/12.2307272
 

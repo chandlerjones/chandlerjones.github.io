@@ -15,4 +15,4 @@ I attended UC Berkeley from 2016 to 2020 where I majored in Applied Mathematics 
 
 Between 2020 and 2022 I worked as a Machine Learning Scientist for butlr.io. There I developed computer vision algorithms for low-resolution thermal images. I implemented a vision transformer (ViT) neural network for object detection and a ViT-based GAN for the generation of customizable and realistic data points.
 
-In my spare time I enjoy making music, hiking, and watching college football (Go Bears!).
+In my spare time I enjoy making music, hiking, photography, and watching college football (Go Bears!).

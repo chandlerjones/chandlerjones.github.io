@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "I presented my work on the RADAI project at LBL at IEEE Nuclear Science Symposium" 
+date:   2023-11-06 15:49:49 -0700
+categories: papers announcement
+---
+
+**Abstract**:
+
+The ability to characterize the performance of an anomaly detection/isotope identification algorithm is contingent on the diversity of scenarios present in the training, validation, and testing datasets. However, it is often infeasible to collect enough data to get good performance at operationally relevant false alarm rates. Instead, we can use Monte Carlo simulations to generate realistic synthetic data. Doing so allows us control over the source of radiation, its strength, its mass, and its shielding; the detector type, its energy resolution, and its location; and other environmental factors such as the ambient radioactivity from structures and materials present in urban scenes and environmental attenuation. As part of the Radiological Anomaly Detection And Identification (RADAI) and RADAI-extended (REX) projects, we have developed such a dataset with which we can characterize the performance of different approaches to spectroscopic anomaly detection and isotope identification. This paper will discuss the use of template matching algorithms (non-negative matrix factorization and multiplexed censored energy window) and more complex algorithms which exploit the time-series nature of the data (transformer-based neural networks) as benchmarks for characterizing the difficulty of the dataset. We show that the initial dataset was found to be too difficult for some sources and too easy for others, and we are currently using this feedback to improve the design of the dataset.
+
+doi.org/10.1109/NSSMICRTSD49126.2023.10337925
