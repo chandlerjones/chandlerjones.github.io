@@ -4,3 +4,6 @@
 
 layout: home
 ---
+<img src="images/IMG_1246.JPG" alt="Me at the top of Yosemite Falls in 2022" width='283' height='259'>
+
+# Welcome!
