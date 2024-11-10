@@ -30,7 +30,7 @@ University of California, Berkeley (2016 \- 2020), BA in Applied Mathematics
 
 * *Design and Generation of a Dataset for Radiation Detection Algorithm Development*  
   J.M. Ghawaly Jr., D.E. Archer, A.D. Nicholson, D.E. Peplow, N.J. Prins, T.H.Y. Joshi, M.S. Bandstra, A.C. Jones, B.J. Quiter, A.C. Nachtsheim  
-  September 2024, In preparation  
+  Early 2025, In preparation  
     
 * *Explaining machine-learning models for gamma-ray detection and identification*   
   M.S. Bandstra, J.C. Curtis, J.M. Ghawaly Jr, A.C. Jones, T.H.Y. Joshi  
